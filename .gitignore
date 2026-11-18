@@ -1,0 +1,24 @@
+# Maven / Java
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node / Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.npm/
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+.idea/
+*.iml
+*.vscode/
+.env

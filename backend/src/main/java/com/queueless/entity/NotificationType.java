@@ -1,0 +1,13 @@
+package com.queueless.entity;
+
+public enum NotificationType {
+    QUEUE_JOINED,
+    QUEUE_POSITION_CHANGED,
+    APPROACHING_TURN,
+    TOKEN_CALLED,
+    TOKEN_COMPLETED,
+    TOKEN_SKIPPED,
+    QUEUE_CANCELLED,
+    COUNTER_PAUSED,
+    COUNTER_RESUMED
+}
